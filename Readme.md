@@ -11,3 +11,7 @@ This repository try to use llama.cpp to inference the new sota model developed a
     git clone https://github.com/ggerganov/llama.cpp
 ```
 
+```
+    cmake -B build
+    cmake --build build --config Release
+```
